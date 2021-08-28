@@ -1,0 +1,33 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+.projects {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.tabs {
+    background-color: lightgreen;
+    color: white;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    float: left
+}
+
+.tabs:hover {
+    background-color: green;
+}
+
+div {
+    shape-outside: ellipse(40%);
+    width: 400px;
+    height: 200px;
+    float: left;
+}
